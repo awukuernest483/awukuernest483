@@ -8,12 +8,11 @@
 
 
 <h3 align="left">Languages and tools:</h3>
-<p style="border: 2px solid #000; border-radius: 50px; padding: 10px; display: inline-flex; align-items: center;">
-  <a href="https://developer.android.com" target="_blank" rel="noreferrer" style="text-decoration: none;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40" style="margin-right: 10px;"/>
-    Android
-  </a>
-</p>
+<a href="https://developer.android.com" target="_blank" rel="noreferrer" style="text-decoration: none;">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40" style="border: 2px solid #000; border-radius: 50%; padding: 5px; margin-right: 10px;" />
+  Android
+</a>
+
 
 <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
 <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> 
