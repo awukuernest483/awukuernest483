@@ -1,6 +1,6 @@
 <div align="center">
   <img src="https://your-image-url.com/your-image.png" alt="Your Name" width="300">
-  <h1>🚀 [Your Name]</h1>
+  <h1>🚀Ernest Junior Awuku</h1>
   <p>🌟 Turning fufu into code, one line at a time!</p>
 </div>
 
