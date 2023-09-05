@@ -3,14 +3,6 @@
   <p>🌟 Turning banku into code, one line at a time!</p>
 </div>
 
-<div style="display: flex; justify-content: center;">
-    <div style="margin-right: 20px;">
-        <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=awukuernest483&" alt="awukuernest483" /></p>
-    </div>
-    <div>
-        <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=awukuernest483&layout=compact" alt="awukuernest483"/></p>
-    </div>
-</div>
 
 
 <h3 align="left">Languages and Tools:</h3>
