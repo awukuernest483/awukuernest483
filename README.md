@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hey there 👋🏽, I'm Ernest</h1>
-  <p>🌟 Turning fufu into code, one line at a time!</p>
+  <p>🌟 Turning banku into code, one line at a time!</p>
 </div>
 
 <h3 align="left">Languages and Tools:</h3>
