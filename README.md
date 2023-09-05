@@ -9,7 +9,8 @@
 
 <h3 align="left">Languages and tools:</h3>
 
- <div style="display: inline-block; width: 200px; height: 100px; background-color: #3498db; border-radius: 15px;"></div>
+<div style="display: inline-block; width: 200px; height: 100px; background-color: #3498db; border-radius: 15px;"></div>
+
 
 <a href="https://developer.android.com" target="_blank" rel="noreferrer">  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> 
 <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
