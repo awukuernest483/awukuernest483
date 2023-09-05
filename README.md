@@ -9,11 +9,6 @@
 
 <h3 align="left">Languages and tools:</h3>
 
-<svg width="100" height="50">
-  <rect width="100" height="50" style="fill:blue;stroke:black;stroke-width:2;" />
-</svg>
-
-
 
 <a href="https://developer.android.com" target="_blank" rel="noreferrer">  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> 
 <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
