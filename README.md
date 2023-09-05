@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Ernest Junior Awuku</h1>
+  <h1>Hey there 👋🏽, I'm Ernest</h1>
   <p>🌟 Turning fufu into code, one line at a time!</p>
 </div>
 
